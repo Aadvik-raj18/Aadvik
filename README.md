@@ -1,0 +1,2 @@
+# Aadvik
+my first direcoty
